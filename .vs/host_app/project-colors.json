@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "34e2e3f4-d6f7-444c-8cb5-a3616a88a635": {
+      "ProjectGuid": "34e2e3f4-d6f7-444c-8cb5-a3616a88a635",
+      "DisplayName": "host_app",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
